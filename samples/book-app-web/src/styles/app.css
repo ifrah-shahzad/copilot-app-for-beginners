@@ -255,6 +255,16 @@ select {
     border-radius: 18px;
   }
 
+  .book-card {
+    gap: 12px;
+    padding: 18px;
+  }
+
+  .book-card__meta {
+    justify-content: flex-start;
+    gap: 8px 12px;
+  }
+
   .hero {
     padding: 24px;
   }
